@@ -1,9 +1,9 @@
 import {LivroCategoria} from './livcategoria'
 
 const listaDeLivros = [
-    new LivroCategoria("Livro 1", "Autor 1", 1995, "Aventura"),
-    new LivroCategoria("Livro 2", "Autor 2", 2005, "Romance"),
-    new LivroCategoria("Livro 3", "Autor 3", 1980, "Mistério"),
+    new LivroCategoria("Enola Holmes: O caso do marquês desaparecido", "Nancy Springer", 2020, "Aventura"),
+    new LivroCategoria("É assim que acaba", "Colleen Hoover", 2016, "Romance"),
+    new LivroCategoria("Um de nós está mentindo ", "Karen M.", 2018, "Mistério"),
   ];
 
   listaDeLivros.forEach((livro) => {
